@@ -1,0 +1,11 @@
+simple blog android app
+
+technology used :
+- Spring for android
+- Spring REST template
+- Play Framework 2 for api app
+- Gradle
+
+API application available here :
+
+https://github.com/wuriyanto48/simple-blog-with-playframework
