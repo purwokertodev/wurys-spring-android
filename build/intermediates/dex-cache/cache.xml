@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-e06861df4ad348b0ab5f64746b07f864ae2ad890.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-1d0430bbf7d0ea6a40986188f9f0d9848d5287d5.jar" />
+    </item>
+    <item
+        jar="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\classes-225731c4dc78acbb03968b2baee7d9e1d3398ef3.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.2-66d6763ea9e54f150d3b975585cd609ae524d661.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-cd835f0bfe99b18fa3bfae358fd98a78500e2ec8.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\.gradle\caches\modules-2\files-2.1\org.springframework\spring-core\4.2.3.RELEASE\3ed00dad7a16b2a28df9348294f6a67151f43cf6\spring-core-4.2.3.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3ed00dad7a16b2a28df9348294f6a67151f43cf6">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\spring-core-4.2.3.RELEASE-8fea4d9a1f571313fec0709b90d41fab4240cc90.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\1.0.1.RELEASE\e68f0e8e4b636ee30c4de58953be38d9b72a5e3b\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-ec44481de58e4e4850852a8a59ad815ed8b4ff4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2-4df598f068326f1bcf1d7ebec629379fc5e8cf25.jar" />
+    </item>
+    <item
+        jar="C:\Users\WURI\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\1.0.1.RELEASE\e132d929bd181941f79b0d63edafb8a86ae6fd33\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-bb89b5fdba62df2fafbb4b56fb9958c0ab72b5e6.jar" />
+    </item>
+    <item
+        jar="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\JIMAT\android-project\SimpleConsumeRest\app\build\intermediates\pre-dexed\debug\classes-b1d0acb08fc687957e2396ffdaf2e4d3aff52186.jar" />
+    </item>
+
+</items>

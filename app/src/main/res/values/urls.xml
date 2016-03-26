@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_greetings">http://rest-service.guides.spring.io/greeting</string>
+    <string name="url_all_post">http://192.168.43.192:9000/api/all_post_json</string>
+    <string name="url_author_image">http://192.168.43.192:9000/assets/</string>
+    <string name="url_author_detail">http://192.168.43.192:9000/api/one_author_json</string>
+    <string name="url_base_app">http://192.168.43.192:9000/</string>
+</resources>
